@@ -109,5 +109,7 @@ def check_order(message):
 
 vovka.polling(none_stop=True, interval=0)#  Графік роботи Вовки
 
+#Зміни
+
 
 
